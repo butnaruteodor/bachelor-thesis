@@ -5,4 +5,5 @@ This repository contains my bachelor's thesis in two formats:
 - Original_Thesis.pdf - This is the original version
 
 The code is available at https://github.com/butnaruteodor/Bachelor-Thesis-Project
+
 A video demo is available here https://www.youtube.com/watch?v=pGGGy73t9w8
